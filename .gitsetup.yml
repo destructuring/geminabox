@@ -1,0 +1,6 @@
+---
+remotes:
+  vendor: https://github.com/cwninja/geminabox
+  primary: git@github.com:destructuring/geminabox
+  secondary: git@bitbucket.org:destructuring/geminabox
+  rb: https://github.com/destructuring/rb-helper
