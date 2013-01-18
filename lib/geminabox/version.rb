@@ -1,1 +1,1 @@
-GeminaboxVersion = '0.8.0' unless defined? GeminaboxVersion
+GeminaboxVersion = File.read(File.expand_path('../../../VERSION',  __FILE__)).strip unless defined? GeminaboxVersion
